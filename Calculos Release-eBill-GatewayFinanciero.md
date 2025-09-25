@@ -1,5 +1,3 @@
-Con gusto te ayudo a revisar el cálculo de "Liquidación Confirming Estándar". Basado en mi análisis, la lógica principal se encuentra en el proyecto `BusinessFacade`.
-
 ### Día de la Semana de Pago
 
 En cuanto a tu pregunta sobre el día de la semana, estás en lo correcto. **El día de la semana para el pago se toma del Convenio y no de una parametrización general.**
